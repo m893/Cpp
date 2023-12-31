@@ -1,0 +1,3 @@
+D:/iti/C++/Mastring c++ udemy/Projects/AskMeWithOOP project/build/CMakeFiles/AskMe.dir
+D:/iti/C++/Mastring c++ udemy/Projects/AskMeWithOOP project/build/CMakeFiles/edit_cache.dir
+D:/iti/C++/Mastring c++ udemy/Projects/AskMeWithOOP project/build/CMakeFiles/rebuild_cache.dir
